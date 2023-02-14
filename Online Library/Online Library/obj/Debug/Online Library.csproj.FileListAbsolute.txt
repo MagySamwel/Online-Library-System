@@ -1,0 +1,89 @@
+C:\Users\Marian\source\repos\Online Library\Online Library\bin\Debug\Online Library.exe.config
+C:\Users\Marian\source\repos\Online Library\Online Library\bin\Debug\Online Library.exe
+C:\Users\Marian\source\repos\Online Library\Online Library\bin\Debug\Online Library.pdb
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online Library.csproj.AssemblyReference.cache
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online_Library.Form1.resources
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online_Library.Properties.Resources.resources
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online Library.csproj.GenerateResource.cache
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online Library.csproj.CoreCompileInputs.cache
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online Library.exe
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online Library.pdb
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online_Library.LogInForm.resources
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online_Library.MainForm.resources
+C:\Users\Marian\source\repos\Online Library\Online Library\obj\Debug\Online_Library.SignUpForm.resources
+C:\Users\Marian\Downloads\Online Library\Online Library\bin\Debug\Online Library.exe.config
+C:\Users\Marian\Downloads\Online Library\Online Library\bin\Debug\Online Library.exe
+C:\Users\Marian\Downloads\Online Library\Online Library\bin\Debug\Online Library.pdb
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online Library.csproj.AssemblyReference.cache
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online_Library.Form1.resources
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online_Library.LogInForm.resources
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online_Library.MainForm.resources
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online_Library.Properties.Resources.resources
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online_Library.SignUpForm.resources
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online Library.csproj.GenerateResource.cache
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online Library.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online Library.exe
+C:\Users\Marian\Downloads\Online Library\Online Library\obj\Debug\Online Library.pdb
+D:\User2\Desktop\Online Library\Online Library\bin\Debug\Online Library.exe.config
+D:\User2\Desktop\Online Library\Online Library\bin\Debug\Online Library.exe
+D:\User2\Desktop\Online Library\Online Library\bin\Debug\Online Library.pdb
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.AssemblyReference.cache
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.SuggestedBindingRedirects.cache
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Form1.resources
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online_Library.LogInForm.resources
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online_Library.MainForm.resources
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Properties.Resources.resources
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online_Library.SignUpForm.resources
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.GenerateResource.cache
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.CoreCompileInputs.cache
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online Library.exe
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online Library.pdb
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online_Library.AuthorForm.resources
+D:\User2\Desktop\Online Library\Online Library\bin\Debug\author.mdf
+D:\User2\Desktop\Online Library\Online Library\bin\Debug\author_log.ldf
+D:\User2\Desktop\Online Library\Online Library\bin\Debug\Database.mdf
+D:\User2\Desktop\Online Library\Online Library\bin\Debug\Database_log.ldf
+D:\User2\Desktop\Online Library\Online Library\obj\Debug\Online_Library.BookForm.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\bin\Debug\author.mdf
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\bin\Debug\author_log.ldf
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\bin\Debug\Database.mdf
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\bin\Debug\Database_log.ldf
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\bin\Debug\Online Library.exe.config
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\bin\Debug\Online Library.exe
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\bin\Debug\Online Library.pdb
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.AssemblyReference.cache
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.AuthorForm.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.BookForm.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Form1.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.LogInForm.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.MainForm.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Properties.Resources.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.SignUpForm.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.GenerateResource.cache
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.CoreCompileInputs.cache
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online Library.exe
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online Library.pdb
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\bin\Debug\author.mdf
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\bin\Debug\author_log.ldf
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\bin\Debug\Database.mdf
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\bin\Debug\Database_log.ldf
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\bin\Debug\Online Library.exe.config
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\bin\Debug\Online Library.exe
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\bin\Debug\Online Library.pdb
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.AssemblyReference.cache
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.AuthorForm.resources
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.BookForm.resources
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Form1.resources
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.LogInForm.resources
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.MainForm.resources
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Properties.Resources.resources
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.SignUpForm.resources
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.GenerateResource.cache
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online Library.csproj.CoreCompileInputs.cache
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online Library.exe
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online Library.pdb
+C:\Users\Marian\OneDrive - Assuit University\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Categories.resources
+C:\Users\Maggi\OneDrive - Assuit University - Staff\Desktop\Online Library\Online Library\obj\Debug\Online_Library.Categories.resources
